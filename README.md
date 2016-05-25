@@ -1,3 +1,3 @@
 # EjemploRepo
-Repositorio de ejemplo para ED
+Repositorio de ejemplo para E
 Primera modificacion
